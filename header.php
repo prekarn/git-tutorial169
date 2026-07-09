@@ -1,3 +1,4 @@
 <?php
-    echo "Mahanakorn"
+    echo "Mahanakorn";
+    echo "copy right by aj.yai";
 ?>
